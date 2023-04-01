@@ -12,8 +12,8 @@ public class Main {
             System.out.println("Menu of Searching and Sorting Testbed.\n");
             System.out.println("1)\tLinear searching");
             System.out.println("2)\tBinary searching");
-            System.out.println("3)\tO(n^2) type of sorting (not implemented yet)");
-            System.out.println("4)\tO(n*log(n)) type of sorting (not implemented yet)");
+            System.out.println("3)\tO(n^2) type of sorting");
+            System.out.println("4)\tO(n*log(n)) type of sorting");
             System.out.println("5)\tSorting performance (not implemented yet)\n");
             System.out.println("q/Q) Quit\n");
             System.out.print("Your choice:\t");
